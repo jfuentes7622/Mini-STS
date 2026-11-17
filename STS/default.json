@@ -1,0 +1,17 @@
+[
+  {
+    "FirstName": "0;,|1;=|1;.",
+    "IsSubjectIdentifier": true,
+    "LastName": "0;,|1;=|0;.",
+    "MiddleName": "0;,|1;=|2;.",
+    "OU": "OU=DoD",
+    "Organization": "Department of Defense",
+    "OrganizationShort": "DoD",
+    "Personna": "1;,|1;=",
+    "RCFromSAN": "1;,|1;:|1;=",
+    "SANSample": "Other Name:2.16.840.1.101.3.6.6=04 19 d5 78 10 da 10 ab 6d 0c 89 ad ad 83 60 da 15 09 02 1c e5 15 85 78 10 d7 ed,Other Name:Principal Name=1234567890157005@mil,URL=urn:uuid:6304C799-97FA-40D3-A2A3-1611E3A27EE6",
+    "Sample": "CN=DOE.JOHN.SMITH.1234567890,OU=CONTRACTOR,OU=PKI,OU=DoD,O=U.S. Government,C=US",
+    "SubjectIdentifier": "0;,|1;=|3;.",
+    "SubjectReplaceChar": null
+  }
+]
